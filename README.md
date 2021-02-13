@@ -1,7 +1,13 @@
-# Language Courses
+# Cursos de Idiomas
 
-This project was made to practice looping statements in JavaScript.
+## :rocket: Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+* JavaScript
 
-The values of an array will be accessed and will print the data and calculate the hourly value of each course. After that, a message is displayed according to the value of the course hour.
- 
+## :computer: Projeto
+Este projeto percorrer um array de cursos de idiomas para obter e imprimir os dados e calcular o valor da hora de cada curso. Após isso, é exibida uma mensagem de acordo com o valor da hora do curso.
+
+**Projeto desenvolvido para praticar estruturas de repetição**
+
+## :sparkles: Imagens
 <img src="https://i.pinimg.com/originals/10/fe/ff/10feffcbb215ef3ea3375bf8bb8edaf9.png">
