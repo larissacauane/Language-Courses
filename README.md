@@ -5,7 +5,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * JavaScript
 
 ## :computer: Projeto
-Este projeto percorrer um array de cursos de idiomas para obter e imprimir os dados e calcular o valor da hora de cada curso. Após isso, é exibida uma mensagem de acordo com o valor da hora do curso.
+Este projeto percorre um array de cursos de idiomas para obter e imprimir os dados e calcular o valor da hora de cada curso. Após isso, é exibida uma mensagem de acordo com o valor da hora do curso.
 
 **Projeto desenvolvido para praticar estruturas de repetição**
 
